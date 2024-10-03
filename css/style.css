@@ -245,7 +245,7 @@ body {
   }
 }
 .head {
-  background-image: url(/images/bg-head.jpg);
+  background-image: url(../images/bg-head.jpg);
   background-repeat: no-repeat;
   background-position: center;
   min-height: auto;
