@@ -254,6 +254,7 @@ body {
 
 .top-slider {
   background: rgba(33, 33, 33, 0.5);
+  margin-bottom: 55px;
 }
 .top-slider__item {
   color: #fff;
@@ -987,6 +988,10 @@ body {
     font-size: 36px;
     line-height: 38px;
     margin-bottom: 50px;
+    
+  }
+  .advice-sliders{
+    margin-bottom: 40px;
   }
 }
 @media (min-width: 1440px) {
@@ -999,6 +1004,9 @@ body {
 
 .advice{
   padding: 100px 0;
+}
+.advice-sliders{
+  margin-bottom: 84px;
 }
 .advice-sliders__inner {
   display: flex;
