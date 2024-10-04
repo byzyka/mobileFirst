@@ -34,25 +34,7 @@ $(document).ready(function () {
         });
     });
 
-    // var $container = $('.news__item');
-    // $container.imagesLoaded(function () {
-    //   $container.masonry({
-    //     // options
-    //     itemSelector: '.news__item',
-    //     // columnWidth: 270,
-    //     gutter: 30,
-    //     fitWidth: true,
-    //     horizontalOrder: true
-    //   });
-    // });
-    //   $('.news__items').masonry({
-    //   // options
-    //   itemSelector: '.news__item',
-    //   // columnWidth: 270,
-    //   gutter: 30,
-    //   fitWidth: true,
-    //   horizontalOrder: true
-    // });
+  
 
     $('.advice-sliders').slick({
       dots: true,
